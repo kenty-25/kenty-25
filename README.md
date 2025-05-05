@@ -46,7 +46,7 @@
 <img height="170" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kenty-25&theme=vue-dark&show_icons=true&count_private=true&hide_border=true" />
 
 <!-- 使用言語 -->
-<img height="170" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenty-25&layout=compact&theme=vue-dark&hide_border=true&cache_seconds=60" />
+<img height="170" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenty-25&layout=compact&theme=vue-dark&hide_border=true" />
 
 </div>
 <br/>
